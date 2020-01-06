@@ -33,9 +33,9 @@
     8.คำสัง git add ใช้เพิ่มไฟล์ใน github
 ![](d12.JPG)
     9.คำสั่ง dir ใช้ดูว่าไฟล์ไหนที่เชื่อมกับ github แล้วบ้าง
-![](d15.JPG)
+![](d14.JPG)
     10.คำสัง git commit -m "ทำอะไรอยู่" ใช้บอก่าดเรากำลังทำอะไร
-![](d11.JPG)
+![](d15.JPG)
 11.คำสั่ง git config --global user.email"อีเมลที่สมัคร" และ git config --global "usernameที่สมัคร"เพื่อเปิดใช้งาน github
 
 12.คำสั่ง git push เพื่อ upload เข้า github และต้องใส่ username และ pessword ทุกครั้ง
