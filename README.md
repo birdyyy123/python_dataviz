@@ -20,7 +20,7 @@
 
     conda install -c anaconda git
 ![](d10.JPG)
-    3.กดทที่ New repository
+    3.กดที่ New repository
 ![](d7.JPG)
     4.ตั้งชื่อ Repository
 ![](d8.JPG)
