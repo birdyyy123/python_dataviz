@@ -1,2 +1,3 @@
 # python_dataviz
-![ขั้นที่1](ana1.jpg)
+หลังจากติดตั้งเสร็จสิ้น
+![](ana1.jpg?raw=true)
