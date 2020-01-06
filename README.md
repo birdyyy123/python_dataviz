@@ -1,2 +1,2 @@
 # python_dataviz
-![](ana1.jpg)
+![ขั้นที่1](ana1.jpg)
